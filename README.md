@@ -1,2 +1,2 @@
 # VkLibrary
-For personal website use.
+For my own personal website use.
